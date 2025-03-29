@@ -120,6 +120,20 @@ Este proyecto incluye:
 
 ---
 
+📄 Documentación Generada
+Se incluye una carpeta Documentacion de la API que contiene la documentación generada automáticamente mediante Swagger Codegen. Dentro encontrarás un archivo index.html que puede abrirse directamente en el navegador para explorar la API de forma interactiva.
+
+¿Cómo visualizarla?
+Clona el repositorio o descarga el ZIP.
+
+Navega a la carpeta Documentacion de la API.
+
+Abre el archivo index.html en tu navegador preferido.
+
+Esta documentación puede ser publicada fácilmente en GitHub Pages u otro hosting estático si se desea compartir con terceros.
+
+---
+
 ## 🧾 Licencia
 
 Este proyecto fue desarrollado como parte de una prueba técnica. Uso personal o académico permitido.
