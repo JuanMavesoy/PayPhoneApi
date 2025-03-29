@@ -133,6 +133,16 @@ Abre el archivo index.html en tu navegador preferido.
 Esta documentación puede ser publicada fácilmente en GitHub Pages u otro hosting estático si se desea compartir con terceros.
 
 ---
+## 🐳 Dockerización
+
+La API está completamente dockerizada para facilitar su despliegue en entornos como Azure o cualquier servicio que soporte contenedores Docker.
+
+### Construcción de la imagen
+
+```bash
+docker build -t payphoneapi .
+```
+----
 
 ## 🧾 Licencia
 
