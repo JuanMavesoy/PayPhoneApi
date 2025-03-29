@@ -120,7 +120,7 @@ Este proyecto incluye:
 
 ---
 
-📄 Documentación Generada
+## 📄 Documentación Generada
 Se incluye una carpeta Documentacion de la API que contiene la documentación generada automáticamente mediante Swagger Codegen. Dentro encontrarás un archivo index.html que puede abrirse directamente en el navegador para explorar la API de forma interactiva.
 
 ¿Cómo visualizarla?
