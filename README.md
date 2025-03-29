@@ -136,6 +136,6 @@ Esta documentación puede ser publicada fácilmente en GitHub Pages u otro hosti
 
 ## 🧾 Licencia
 
-Este proyecto fue desarrollado como parte de una prueba técnica. Uso personal o académico permitido.
+Este proyecto fue desarrollado como parte de una prueba técnica. Uso personal.
 
 ---
