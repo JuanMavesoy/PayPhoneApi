@@ -1,4 +1,4 @@
-# 📱 PayPhone API
+# PayPhone API
 
 API RESTful desarrollada en ASP.NET Core que permite la gestión de billeteras electrónicas, transferencias de saldo y visualización del historial de movimientos. Esta API también cuenta con autenticación basada en JWT para proteger los endpoints sensibles.
 
