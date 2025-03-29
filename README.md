@@ -37,7 +37,7 @@ Luego, usar el token en el header:
 ```
 Authorization: Bearer {token}
 ```
-tener en cuenta que si se hace desde le swagger, en capo de valu de la autorizacion solo debes pegar el TOKEN, y el internamente le anexa el bearer automaticamente.
+tener en cuenta que si se hace desde le swagger, en el campo de value de la autorizacion solo debes pegar el TOKEN, y el internamente le anexa el bearer automaticamente.
 ---
 
 ## 📂 Endpoints
