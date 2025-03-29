@@ -1,0 +1,10 @@
+bin/
+obj/
+.vscode/
+.vs/
+Dockerfile
+*.md
+*.user
+*.suo
+*.db
+TestResults/
